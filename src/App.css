@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+/* Add these to your CSS file */
+.light-rain-theme {
+  background: linear-gradient(135deg, #a8c0ff 0%, #3f2b96 100%);
+}
+
+.drizzle-theme {
+  background: linear-gradient(135deg, #4b6cb7 0%, #182848 100%);
+}
+
+.few-clouds-theme {
+  background: linear-gradient(135deg, #a8c0ff 0%, #3f2b96 100%);
+}
+
+.scattered-clouds-theme {
+  background: linear-gradient(135deg, #bdc3c7 0%, #2c3e50 100%);
+}
+
+.broken-clouds-theme {
+  background: linear-gradient(135deg, #636363 0%, #a2ab58 100%);
+}
+
+.fog-theme {
+  background: linear-gradient(135deg, #bdc3c7 0%, #2c3e50 100%);
+}
